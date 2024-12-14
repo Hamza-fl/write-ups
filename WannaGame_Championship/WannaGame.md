@@ -1,1 +1,1 @@
-<img src="./ctf_img/ctfsubgect.png" style="zoom:80%;" />
+<img src="./ctf_img/ctfsubject.png" style="zoom:80%;" />
